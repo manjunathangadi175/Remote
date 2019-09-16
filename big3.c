@@ -9,7 +9,7 @@
 
      
 
-    void main()
+    void big3()
 
     {
 
